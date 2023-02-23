@@ -15,7 +15,7 @@
     "require": "^2.4.20",
     "web-vitals": "^0.2.4"
   },
-  "scripts": {
+  "react-scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
